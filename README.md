@@ -6,7 +6,7 @@ Um projeto de cronômetro regressivo desenvolvido com HTML, CSS e JavaScript. O 
 
 ## 📸 Demonstração
 
-👉 [Acesse aqui o projeto online](https://SEUNOME.github.io/richardmoraessouza/timer-interativo/)
+👉 [Acesse aqui o projeto online](https://richardmoraessouza.github.io/timer-interativo/)
 
 ---
 
