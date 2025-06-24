@@ -36,6 +36,10 @@ function mudar_tudo() {
       document.body.style.background = "#3EF9F3";
       hora.style.color = "#0f0f0f";
       titulo.style.color = "#0f0f0f";
+      editar.style.color = "#3EF9F3";
+      editar.style.background = "#0f0f0f";
+      enviar.style.color = "#3EF9F3";
+      enviar.style.background = "#0f0f0f";
       btn.forEach((botao) => {
         botao.style.color = "#3EF9F3";
         botao.style.background = "#0f0f0f";
@@ -46,6 +50,10 @@ function mudar_tudo() {
       document.body.style.background = "#0f0f0f";
       hora.style.color = "#3EF9F3";
       titulo.style.color = "#3EF9F3";
+      editar.style.background = "#3EF9F3";
+      editar.style.color = "#0f0f0f";
+      enviar.style.background = "#3EF9F3";
+      enviar.style.color = "#0f0f0f";
       btn.forEach((botao) => {
         botao.style.background = "#3EF9F3";
         botao.style.color = "#0f0f0f";

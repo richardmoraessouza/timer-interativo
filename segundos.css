@@ -31,14 +31,21 @@ main {
   color: #3ef9f3;
 }
 
-.hora {
-  font-size: clamp(1rem, 10vw, 10rem);
+#titulo {
+  font-size: clamp(1rem, 3vw, 3rem);
 }
+
+.hora {
+  font-size: clamp(1rem, 18vw, 10rem);
+}
+
 #controles {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
+  width: 50%;
 }
+
 body,
 .hora {
   transition: background-color 1s ease, color 1s ease;
@@ -57,12 +64,25 @@ body,
 
 form {
   display: none;
+  width: 100%;
 }
 
-button {
+button,
+input {
   border: 0px;
-  padding: 5px 25px;
+  width: 100%;
   border-radius: 2px;
+  padding: 10px;
   color: white;
   background-color: #3ef9f3;
+}
+
+input {
+  margin-bottom: 10px;
+}
+@media (max-width: 450px) {
+  #controles {
+    grid-template-columns: 1fr;
+    margin-top: 20px;
+  }
 }
