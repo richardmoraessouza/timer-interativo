@@ -108,13 +108,6 @@ let index = 30; // Altere para o tempo desejado
 **Richard Moraes Souza**
 - GitHub: [@richardmoraessouza](https://github.com/richardmoraessouza)
 - Projeto: [Timer Interativo](https://richardmoraessouza.github.io/timer-interativo/)
-
-## 🙏 Agradecimentos
-
-- [Font Awesome](https://fontawesome.com/) pelos ícones
-- [Google Fonts](https://fonts.google.com/) pela tipografia
-- [Freesound](https://freesound.org/) pelo áudio de notificação
-
 ---
 
 ⭐ **Se este projeto te ajudou, considere dar uma estrela!**
