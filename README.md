@@ -103,28 +103,6 @@ let index = 30; // Altere para o tempo desejado
    ```html
    <audio src="som/seu-arquivo.mp3" id="som"></audio>
    ```
-
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Para contribuir:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
-
-### 📝 Sugestões de Melhorias
-- [ ] Adicionar mais opções de sons
-- [ ] Implementar temas visuais
-- [ ] Adicionar notificações push
-- [ ] Criar modo noturno
-- [ ] Adicionar histórico de tempos
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Richard Moraes Souza**
