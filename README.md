@@ -8,7 +8,7 @@ Um projeto de cronômetro regressivo desenvolvido com HTML, CSS e JavaScript. O 
 
 ## 📸 Demonstração
 
-**🌐 [Acesse o projeto online](https://richardmoraessouza.github.io/timer-interativo/)**
+👉 [Acesse aqui o projeto online](https://timer-interativo.netlify.app/)
 
 ## ✨ Funcionalidades
 
